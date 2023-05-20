@@ -6,7 +6,6 @@
 
 * User-friendly
 * Local Storage Supported
-* Displays current Date and Time
 * Responsive, on all devices
 
 # *Author*
