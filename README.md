@@ -2,6 +2,9 @@
 
 ## A Simple To - Do Website!
 
+
+This TO-DO app is also hosted using github on https://ajaykumar-siliveri.github.io/TODO-APP/
+
 ### *Features*:
 
 * User-friendly
